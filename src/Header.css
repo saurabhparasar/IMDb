@@ -19,3 +19,9 @@
   color: white;
   padding: 40px;
 }
+.header__search {
+  display: flex;
+  flex: 3;
+  width: 100%;
+  height: auto;
+}
