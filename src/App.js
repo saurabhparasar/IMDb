@@ -11,3 +11,8 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        <Route path="/login" component={Login} />
+        <Route path="/watchlist" component={Watchlist} />
+        <Route path="/movies" component={Movies} />
+        <Route exact path="/" component={Home} />
+
