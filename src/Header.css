@@ -14,3 +14,8 @@
   margin-top: 18px;
   object-fit: contain;
 }
+.header__Menu {
+  width: 10px;
+  color: white;
+  padding: 40px;
+}
