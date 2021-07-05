@@ -10,3 +10,14 @@ function Home()  {
 	const [movies, setMovies] = useState([]);
 	const [searchValue, setSearchValue] = useState('');
 
+    useEffect( async () =>  {
+		
+
+		let response = await fetch('http://www.omdbapi.com/?s=action&apikey=db9a8242');
+		let responseJson = await response.json();
+
+		if (responseJson.Search) {
+			setMovies(responseJson.Search);
+		};
+    },[])
+
