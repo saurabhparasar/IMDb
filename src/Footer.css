@@ -33,3 +33,7 @@
   align-items: center;
   flex-wrap: wrap;
 }
+.bottom-text {
+  position: absolute;
+  bottom: 0;
+}
