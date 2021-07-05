@@ -6,3 +6,10 @@
   bottom: 0;
   width: 100%;
 }
+.col1 {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+}
