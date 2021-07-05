@@ -44,3 +44,11 @@ function Footer() {
                            </ul>
 
                    </div>
+                     {/* Column 6 */}
+                     <div className="col-md-3col-sm-6">
+                   <ul className="list-unstyled">
+                           <li>IMDb Developer</li>
+                           <li>Intrested-Based Ads</li>
+                           </ul>
+                 </div>
+
