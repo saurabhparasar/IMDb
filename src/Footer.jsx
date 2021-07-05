@@ -28,3 +28,11 @@ function Footer() {
                            </ul>
 
                    </div>
+                     {/* Column 4 */}
+                     <div className="col-md-3col-sm-6">
+                   <ul className="list-unstyled">
+                           <li>IMDbPro</li>
+                           <li>Condition of Use</li>
+                           </ul>
+
+                   </div>
