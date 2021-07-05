@@ -12,3 +12,11 @@ function Footer() {
                            <li>Press Room</li>
                        </ul>
                    </div>
+                   {/* Column 2 */}
+                   <div className="col-md-3col-sm-6">
+                   <ul className="list-unstyled">
+                           <li>Help</li>
+                           <li>Advertising</li>
+                           </ul>
+
+                   </div>
