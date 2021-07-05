@@ -36,3 +36,11 @@ function Footer() {
                            </ul>
 
                    </div>
+                     {/* Column 5 */}
+                     <div className="col-md-3col-sm-6">
+                   <ul className="list-unstyled">
+                           <li>Box Office Mojo</li>
+                           <li>Privacy Policy</li>
+                           </ul>
+
+                   </div>
