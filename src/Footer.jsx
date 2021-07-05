@@ -20,3 +20,11 @@ function Footer() {
                            </ul>
 
                    </div>
+                    {/* Column 3 */}
+                    <div className="col-md-3col-sm-6">
+                   <ul className="list-unstyled">
+                           <li>Site Index</li>
+                           <li>Jobs</li>
+                           </ul>
+
+                   </div>
