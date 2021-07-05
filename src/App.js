@@ -16,3 +16,10 @@ function App() {
         <Route path="/movies" component={Movies} />
         <Route exact path="/" component={Home} />
 
+        <Footer />
+      </div>
+    </Router>
+  );
+}
+
+export default App;
